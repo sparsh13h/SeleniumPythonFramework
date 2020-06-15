@@ -1,0 +1,66 @@
+2020-06-15 15:48:03,743 :INFO : test_formSubmission : first name isSparsh
+2020-06-15 15:48:04,420 :INFO : test_formSubmission : first name isVishakha
+2020-06-15 15:48:04,420 :INFO : test_formSubmission : first name isVishakha
+2020-06-15 15:48:10,661 :INFO : test_e2e : getting all card titles
+2020-06-15 15:48:10,695 :INFO : test_e2e : iphone X
+2020-06-15 15:48:10,711 :INFO : test_e2e : Samsung Note 8
+2020-06-15 15:48:10,725 :INFO : test_e2e : Nokia Edge
+2020-06-15 15:48:10,739 :INFO : test_e2e : Blackberry
+2020-06-15 15:48:10,981 :INFO : test_e2e : Entering country name
+2020-06-15 15:48:16,464 :INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-06-15 16:48:37,577 :INFO : test_formSubmission : first name isSparsh
+2020-06-15 16:48:38,396 :INFO : test_formSubmission : first name isVishakha
+2020-06-15 16:48:38,396 :INFO : test_formSubmission : first name isVishakha
+2020-06-15 16:48:45,287 :INFO : test_e2e : getting all card titles
+2020-06-15 16:48:45,323 :INFO : test_e2e : iphone X
+2020-06-15 16:48:45,342 :INFO : test_e2e : Samsung Note 8
+2020-06-15 16:48:45,356 :INFO : test_e2e : Nokia Edge
+2020-06-15 16:48:45,370 :INFO : test_e2e : Blackberry
+2020-06-15 16:48:45,652 :INFO : test_e2e : Entering country name
+2020-06-15 16:48:51,180 :INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-06-15 17:02:01,087 :INFO : test_formSubmission : first name isSparsh
+2020-06-15 17:02:03,207 :INFO : test_formSubmission : first name isVishakha
+2020-06-15 17:02:03,207 :INFO : test_formSubmission : first name isVishakha
+2020-06-15 17:02:18,394 :INFO : test_e2e : getting all card titles
+2020-06-15 17:02:18,426 :INFO : test_e2e : iphone X
+2020-06-15 17:02:18,472 :INFO : test_e2e : Samsung Note 8
+2020-06-15 17:02:18,482 :INFO : test_e2e : Nokia Edge
+2020-06-15 17:02:18,489 :INFO : test_e2e : Blackberry
+2020-06-15 17:02:19,219 :INFO : test_e2e : Entering country name
+2020-06-15 17:02:25,259 :INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-06-15 17:10:47,497 :INFO : test_formSubmission : first name isSparsh
+2020-06-15 17:10:48,148 :INFO : test_formSubmission : first name isVishakha
+2020-06-15 17:10:48,148 :INFO : test_formSubmission : first name isVishakha
+2020-06-15 17:10:54,591 :INFO : test_e2e : getting all card titles
+2020-06-15 17:10:54,629 :INFO : test_e2e : iphone X
+2020-06-15 17:10:54,642 :INFO : test_e2e : Samsung Note 8
+2020-06-15 17:10:54,655 :INFO : test_e2e : Nokia Edge
+2020-06-15 17:10:54,668 :INFO : test_e2e : Blackberry
+2020-06-15 17:10:54,888 :INFO : test_e2e : Entering country name
+2020-06-15 17:11:00,368 :INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-06-15 17:20:21,923 :INFO : test_formSubmission : first name isSparsh
+2020-06-15 17:20:22,582 :INFO : test_formSubmission : first name isVishakha
+2020-06-15 17:20:22,582 :INFO : test_formSubmission : first name isVishakha
+2020-06-15 17:20:29,262 :INFO : test_e2e : getting all card titles
+2020-06-15 17:20:29,292 :INFO : test_e2e : iphone X
+2020-06-15 17:20:29,307 :INFO : test_e2e : Samsung Note 8
+2020-06-15 17:20:29,319 :INFO : test_e2e : Nokia Edge
+2020-06-15 17:20:29,331 :INFO : test_e2e : Blackberry
+2020-06-15 17:20:29,574 :INFO : test_e2e : Entering country name
+2020-06-15 17:20:35,050 :INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-06-15 17:21:13,360 :INFO : test_formSubmission : first name isSparsh
+2020-06-15 17:21:17,503 :INFO : test_formSubmission : first name isVishakha
+2020-06-15 17:21:17,503 :INFO : test_formSubmission : first name isVishakha
+2020-06-15 17:21:39,636 :INFO : test_e2e : getting all card titles
+2020-06-15 17:21:39,672 :INFO : test_e2e : iphone X
+2020-06-15 17:21:39,710 :INFO : test_e2e : Samsung Note 8
+2020-06-15 17:21:39,717 :INFO : test_e2e : Nokia Edge
+2020-06-15 17:21:39,723 :INFO : test_e2e : Blackberry
+2020-06-15 17:21:40,426 :INFO : test_e2e : Entering country name
+2020-06-15 17:21:46,409 :INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
